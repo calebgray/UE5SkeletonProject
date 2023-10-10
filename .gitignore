@@ -11,5 +11,7 @@ Saved
 *.sdf
 *.sln
 *.suo
+*.code-workspace
 *.xcodeproj
 *.xcworkspace
+Makefile
