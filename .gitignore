@@ -15,3 +15,4 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Makefile
+Scripts/__pycache__
