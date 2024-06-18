@@ -4,7 +4,7 @@ A fine-tuned, lightweight, bare minimum, UE5 project to be used as the template 
 
 ## Features
 
-* Disabled all superfluous plugins except CLion integration.
+* Disabled all superfluous plugins except Blueprints, VSCode, and the Plugin Browser.
 
 ## Scripts
 
