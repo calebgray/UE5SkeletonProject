@@ -401,7 +401,7 @@
 		},
 		{
 			"Name": "ContentBrowserAliasDataSource",
-			"Enabled": false
+			"Enabled": true
 		},
 		{
 			"Name": "ContextualAnimation",
@@ -2132,23 +2132,11 @@
 			"Enabled": false
 		},
 		{
-			"Name": "CLionSourceCodeAccess",
-			"Enabled": false
-		},
-		{
 			"Name": "CodeLiteSourceCodeAccess",
 			"Enabled": false
 		},
 		{
 			"Name": "CmdLinkServer",
-			"Enabled": false
-		},
-		{
-			"Name": "ContentBrowserAssetDataSource",
-			"Enabled": false
-		},
-		{
-			"Name": "ContentBrowserClassDataSource",
 			"Enabled": false
 		},
 		{
@@ -2446,10 +2434,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "RiderSourceCodeAccess",
-			"Enabled": false
-		},
-		{
 			"Name": "SkeletalReduction",
 			"Enabled": false
 		},
@@ -2549,6 +2533,10 @@
 		},
 		{
 			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "ContentBrowserFileDataSource",
 			"Enabled": true
 		}
 	]
