@@ -15,4 +15,6 @@ Saved
 *.xcodeproj
 *.xcworkspace
 Makefile
-Scripts/__pycache__
+CMakeLists.txt
+cmake-*
+__pycache__
