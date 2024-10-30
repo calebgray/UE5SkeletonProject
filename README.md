@@ -23,7 +23,7 @@ pip install ttkwidgets
 Or, create a virtual environment:
 
 ```sh
-pip venv create Scripts/venv
+python -m venv Scripts/venv
 source Scripts/venv/bin/activate
 pip install ttkwidgets
 ```
