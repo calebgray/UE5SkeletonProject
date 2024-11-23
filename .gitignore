@@ -2,6 +2,14 @@ Binaries
 DerivedDataCache
 Intermediate
 Saved
+Scripts
+venv
+__pycache__
+Makefile
+CMakeLists.txt
+cmake-build-debug
+cmake-build-release
+.git
 .idea
 .vscode
 .vs
@@ -14,7 +22,4 @@ Saved
 *.code-workspace
 *.xcodeproj
 *.xcworkspace
-Makefile
-Scripts/__pycache__
-Scripts/venv
 *.log

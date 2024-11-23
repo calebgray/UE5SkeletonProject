@@ -431,10 +431,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "CLionSourceCodeAccess",
-			"Enabled": false
-		},
-		{
 			"Name": "ClonerEffector",
 			"Enabled": false
 		},
@@ -1800,10 +1796,6 @@
 		},
 		{
 			"Name": "RiderLink",
-			"Enabled": false
-		},
-		{
-			"Name": "RiderSourceCodeAccess",
 			"Enabled": false
 		},
 		{
