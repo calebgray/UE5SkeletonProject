@@ -13,6 +13,7 @@ cmake-build-release
 .idea
 .vscode
 .vs
+.vsconfig
 *.VC.db
 *.opensdf
 *.opendb
